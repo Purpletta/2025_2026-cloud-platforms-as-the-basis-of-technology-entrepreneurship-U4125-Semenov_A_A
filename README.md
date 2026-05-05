@@ -20,8 +20,11 @@
 ├── LICENSE
 ├── README.md
 ├── reportdesign.md          # Правила оформления отчётов
-└── lab1/                    # Лабораторная работа №1
-    ├── lab1_report.md
+├── lab1/                    # Лабораторная работа №1
+│   ├── lab1_report.md
+│   └── screenshots/
+└── lab2/                    # Лабораторная работа №2
+    ├── lab2_report.md
     └── screenshots/
 ```
 
@@ -30,6 +33,7 @@
 | № | Тема | Отчёт |
 | --- | --- | --- |
 | 1 | Обзор Google Cloud и исследование основных сервисов | [lab1/lab1_report.md](./lab1/lab1_report.md) |
+| 2 | Исследование Cloud Run | [lab2/lab2_report.md](./lab2/lab2_report.md) |
 
 ## Правила оформления
 
